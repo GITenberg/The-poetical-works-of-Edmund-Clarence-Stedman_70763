@@ -1,0 +1,29 @@
+_repo: The-poetical-works-of-Edmund-Clarence-Stedman_70763
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stedman, Edmund Clarence
+    birthdate: 1833
+    deathdate: 1908
+    gutenberg_agent_id: '7210'
+    url: http://www.gutenberg.org/2009/agents/7210
+description: ''
+gutenberg_issued: '2023-05-14'
+identifiers:
+  gutenberg: '70763'
+language: en
+pgterms:marc905: 20080124001031stedman
+pgterms:marc906: '1873'
+pgterms:marc907: US
+production_note: Bryan Ness and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aUnited States :$bJames R. Osgood and Company, $c1873, pubdate
+  1878.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The poetical works of Edmund Clarence Stedman
+url: http://www.gutenberg.org/ebooks/70763
